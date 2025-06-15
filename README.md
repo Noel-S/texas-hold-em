@@ -1,5 +1,7 @@
 # texas-hold'em
-
+<p align="center">
+ <img src="img/cover.jpg" width="800" height="700" >
+</p>
 Texas Hold'em es una variante del póker en la que a cada jugador se le reparten dos cartas ocultas ("hole cards"). Luego, los jugadores realizan una serie de apuestas mientras se revelan cinco cartas comunitarias ("community cards"). Si queda más de un jugador cuando terminan las apuestas, se produce un "showdown", donde los jugadores muestran sus cartas. Cada jugador debe formar la mejor mano posible de cinco cartas, usando cualquier combinación entre sus dos cartas ocultas y las cinco comunitarias.
 
 Jerarquía de manos (de mayor a menor):
